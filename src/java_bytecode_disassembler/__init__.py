@@ -1,0 +1,1 @@
+from .java_bytecode_disassembler import disassembler

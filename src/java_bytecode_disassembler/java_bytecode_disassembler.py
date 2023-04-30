@@ -3,7 +3,7 @@ import traceback     # for system traceback in error handling operations
 import shutil        # for removing directories
 from os import path  # for scanning directories
 
-class java_bytecode_disassembler:
+class disassembler:
 
 
     def __init__(self, pathway, verbose=False, fail_check=True, write=True):
