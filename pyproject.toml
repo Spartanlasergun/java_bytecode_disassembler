@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "java_bytecode_disassembler"
+version = "1.0.3"
+authors = [
+  { name="Spartanlasergun", email="bns360@live.com" },
+]
+description = "Disassembler for java bytecode"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+	"Development Status :: 3 - Alpha",
+  "Intended Audience :: Developers",
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: GNU Lesser General Public License v2 or later (LGPLv2+)",
+  "Operating System :: Microsoft :: Windows",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/Spartanlasergun/java_bytecode_disassembler"
+"Bug Tracker" = "https://github.com/Spartanlasergun/java_bytecode_disassembler/issues"
