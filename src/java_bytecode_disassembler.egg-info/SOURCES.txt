@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/java_bytecode_disassembler/__init__.py
+src/java_bytecode_disassembler/java_bytecode_disassembler.py
+src/java_bytecode_disassembler.egg-info/PKG-INFO
+src/java_bytecode_disassembler.egg-info/SOURCES.txt
+src/java_bytecode_disassembler.egg-info/dependency_links.txt
+src/java_bytecode_disassembler.egg-info/top_level.txt
+tests/test.py

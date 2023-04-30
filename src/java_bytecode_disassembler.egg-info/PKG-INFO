@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: java-bytecode-disassembler
+Version: 1.0.3
+Summary: Disassembler for java bytecode
+Author-email: Spartanlasergun <bns360@live.com>
+Project-URL: Homepage, https://github.com/Spartanlasergun/java_bytecode_disassembler
+Project-URL: Bug Tracker, https://github.com/Spartanlasergun/java_bytecode_disassembler/issues
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU Lesser General Public License v2 or later (LGPLv2+)
+Classifier: Operating System :: Microsoft :: Windows
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# java_bytecode_disassembler
+java bytecode disassembly library built in python (work in progress)
